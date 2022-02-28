@@ -19,7 +19,7 @@ body {
 .wrapper {
   margin: 100px;
   padding: 17px;
-  width: 17%;
+  width: 340px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
